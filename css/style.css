@@ -237,7 +237,7 @@ header .header__call .header__call-text .header__call-telephone {
   color: #ffffff;
 }
 .slider {
-  background: url(./css/blockbg.png) no-repeat, #f2f2f2;
+  background: url(../css/blockbg.png) no-repeat, #f2f2f2;
   background-size: cover;
   weight: 100%;
   font-size: 16px;
