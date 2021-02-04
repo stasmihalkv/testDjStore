@@ -182,21 +182,21 @@ $(document).ready(function() {
         switch (cnt){
             case 0:
                 slider.css({
-                    "backgroundImage" : "url('/css/blockbg.jpg')", 
+                    "backgroundImage" : "url('css/blockbg.jpg')", 
                     "backgroundSize" : "cover",
                     "backgroundRepeat":"no-repeat",
                     });
                 break;
             case 1:
                 slider.css({
-                    "backgroundImage" : "url('/css/blockbg_second.jpg')", 
+                    "backgroundImage" : "url('css/blockbg_second.jpg')", 
                     "backgroundSize" : "cover",
                     "backgroundRepeat":"no-repeat",
                 });
                 break;
             case 2:
                 slider.css({
-                    "backgroundImage" : "url('/css/blockbg3.jpg')", 
+                    "backgroundImage" : "url('css/blockbg3.jpg')", 
                     "backgroundSize" : "cover",
                     "backgroundRepeat":"no-repeat",
                     });
