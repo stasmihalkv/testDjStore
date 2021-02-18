@@ -171,7 +171,7 @@ $(document).ready(function() {
     function backItemSlide(){   
         sliderItems[cnt].classList.remove('active');
         cnt--;
-        if(cnt<1){
+        if(cnt<0){
             cnt=sliderItems.length-1
         }
         sliderItems[cnt].classList.add('active')   
